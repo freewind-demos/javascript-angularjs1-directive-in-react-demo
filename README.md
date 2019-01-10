@@ -10,3 +10,4 @@ npm install
 npm start
 ```
 
+Note: There is also a demo for angularjs1 "component"
